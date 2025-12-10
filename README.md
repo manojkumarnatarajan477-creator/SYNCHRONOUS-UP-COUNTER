@@ -28,15 +28,14 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-/* write all the steps invloved */
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
 Developed by: MANOJ KUMAR N
 RegisterNumber:25015346
-*/
+
 
 **RTL LOGIC UP COUNTER**
 
